@@ -1,33 +1,39 @@
 ### Research Experience
 
-- **2022.05 – 2023.06**  
-  Project Leader: National Innovation Project *“Mechanical Arm Calibration System Based on Deep Learning and Ultrasonic Microarray”*, Tsinghua University, Beijing
 
-- **2023.03 – 2023.06**  
-  Patent: *“A Mechanical Arm Calibration Method Based on Deep Learning and Ultrasonic Microarray”* (Published), State Intellectual Property Office, Beijing
-
-- **2024.06 – Present**  
-  Research on Short Video Generation, Shanghai Jiao Tong University, Shanghai
-
----
+- **2022.05 – 2023.06**
+  Project Leader: National-level Innovation Project *“基于深度学习及超声微阵列的机械臂标定系统”* (Concluded), [MISSING: Institution], [MISSING: City]
+- **2023.02 – 2023.07**
+  Researcher: Paper *“3Deus：基于点云探测的复杂场景物品识别方法”* (Accepted), [MISSING: Institution], [MISSING: City]
+- **2023.03 – 2023.06**
+  Patent Applicant: Patent *“一种基于深度学习及超声微阵列的机械臂标定方法”* (Published), [MISSING: Institution], [MISSING: City]
+- **2024.06 – Present**
+  Researcher: Paper *“Multipath and Noise Resilient DOA Method for Low-Cost Mechanical Arm Calibration”* (Under Review), [MISSING: Institution], [MISSING: City]
+- **[MISSING: start date] – Present**
+  Researcher: Short Video Generation Research, [MISSING: Institution], [MISSING: City]
 
 ### Professional Service
-- **2021.09 – 2022.06**  
-  Cadre, University Innovation and Entrepreneurship Center, Beijing
 
-- **2020.09 – 2022.06**  
-  Main Responsible Person, University Astronomical Association, Beijing
 
-- **2020.09 – 2021.07**  
-  Cadre, Jianxing College Party Member Home, Beijing
-
----
+- **[MISSING: start date] – [MISSING: end date]**
+  Cadre, University Innovation and Entrepreneurship Center, [MISSING: City]
+- **[MISSING: start date] – [MISSING: end date]**
+  Key Member, University Astronomical Association, [MISSING: City]
+- **[MISSING: start date] – [MISSING: end date]**
+  Cadre, Jianxing College Party Member Home, [MISSING: City]
 
 ### Skills
-- Proficient in Python, PyTorch, Transformer, and deep learning frameworks.
 
----
+
+- Proficient in deep learning, computer vision, LLM, AIGC, Stable Diffusion, LoRA, and ControlNet.
 
 ### Interests
-- Photography  
-- Hiking
+
+
+- Short Video Generation
+
+- Image Information Hiding
+
+- 3D Point Cloud Analysis
+
+- Robotics
