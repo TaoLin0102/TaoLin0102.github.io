@@ -1,6 +1,5 @@
 #### Submitted
 
-
 - H. Chen, **H. Chen**. (2024).
   Multipath and Noise Resilient DOA Method for Low-Cost Mechanical Arm Calibration.
   **Computers and Electrical Engineering**.
@@ -10,7 +9,6 @@
   [[Paper]]([MISSING: URL])
 
 #### Published
-
 
 - H. Chen, **H. Chen**. (2023).
   3Deus：基于点云探测的复杂场景物品识别方法.

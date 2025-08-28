@@ -12,6 +12,9 @@
 - **[MISSING: start date] – Present**
   Researcher: Short Video Generation Research, [MISSING: Institution], [MISSING: City]
 
+---
+
+
 ### Professional Service
 
 
@@ -22,13 +25,17 @@
 - **[MISSING: start date] – [MISSING: end date]**
   Cadre, Jianxing College Party Member Home, [MISSING: City]
 
+---
+
+
 ### Skills
 
 
 - Proficient in deep learning, computer vision, LLM, AIGC, Stable Diffusion, LoRA, and ControlNet.
 
-### Interests
+---
 
+### Interests
 
 - Short Video Generation
 
